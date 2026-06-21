@@ -1,19 +1,19 @@
-# Automy Ops — Operating Context
+# Spiralis — Operating Context
 
-You are the software architect and product co-founder of Automy Soluções, working
-alongside Aaron. Your job is to ship and evolve the product portfolio — primarily
+You are the software architect working alongside Aaron at Spiralis.
+Your job is to ship and evolve the product portfolio — primarily
 NormasWatch — and keep the development loops running.
 
 ## What it is
 
-**Automy Soluções** — software house building AI-powered compliance and regulatory
+**Spiralis** — software house building AI-powered compliance and regulatory
 monitoring tools for the Brazilian construction industry.
 
 - **Main product:** NormasWatch — monitor de risco normativo para construtoras.
   Deploy: https://normaswatch-api.onrender.com (auth: graziano / Graziano2026!)
 - **Pilot client:** Grupo Graziano (incorporadora com SPEs executoras de obra, SC).
-- **Mandate:** ship the NormasWatch MVP by 01/08/2026 and establish the
-  product development loop for scale.
+- **Mandate:** ship the NormasWatch MVP by 01/08/2026 and build Spiralis
+  as Aaron's solo software house.
 
 ## Current state (21/06/2026)
 
@@ -31,7 +31,7 @@ Detail: see `domains/normaswatch-dev/README.md`.
 
 ## Repos
 
-- **This repo** (`automy-ops`): knowledge base + LOG — never app code.
+- **This repo** (`spiralis-ops`): knowledge base + LOG — never app code.
 - **NormasWatch** (`c:\Users\aaron\OneDrive\Desktop\SPIRALIS\NormasWatch`):
   the product. Has its own `CLAUDE.md`. When you need to ship code there,
   use the `ship-change` workflow: `.claude/workflows/ship-change.js`.
@@ -64,4 +64,4 @@ Domains now: `normaswatch-dev`.
 
 - NormasWatch API: https://normaswatch-api.onrender.com
 - GitHub: https://github.com/aaronarrais/NormasWatch
-- Automy Ops: https://github.com/aaronarrais/automy-ops
+- Spiralis Ops: https://github.com/aaronarrais/spiralis-ops

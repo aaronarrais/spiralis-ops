@@ -14,6 +14,6 @@ Refs: [artifact](path) (new|updated), repo PR/commit links.
 
 ---
 
-## 2026-06-21 · automy-ops repo created + NormasWatch harness wired · #ops #infra
-What: Bootstrapped automy-ops as AI operating hub. Adapted ship-change workflow for Python/NormasWatch. Added .claude/ skills and workflow to NormasWatch repo.
+## 2026-06-21 · spiralis-ops repo created + NormasWatch harness wired · #ops #infra
+What: Bootstrapped spiralis-ops as AI operating hub for Spiralis. Adapted ship-change workflow for Python/NormasWatch. Added .claude/ skills and workflow to NormasWatch repo.
 Refs: domains/normaswatch-dev/README.md (new), .claude/workflows/ship-change.js (new).

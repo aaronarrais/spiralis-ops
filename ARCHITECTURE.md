@@ -6,7 +6,7 @@ status: adopted
 
 # Knowledge-base architecture
 
-How this repo is organized as the operating substrate for the Automy agent.
+How this repo is organized as the operating substrate for the Spiralis agent.
 Everything is plain **markdown + frontmatter in git** — diffable, reviewable,
 agent-writable. This doc is the durable record of the model.
 
